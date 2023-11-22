@@ -1,0 +1,28 @@
+---
+title: "KPI: Innovation Impact Index"
+author: "ChatGPT"
+date: "2023-11-22"
+categories: [corporate]
+---
+
+#### Objective:
+Measure the tangible contributions made by individuals or teams towards fostering innovation within the organization.
+
+#### Components:
+1. **Idea Generation:** Quantify the number of unique ideas proposed by the individual or team within a defined period.
+2. **Implementation Rate:** Measure the percentage of proposed ideas successfully implemented or in the process of implementation.
+3. **Impact Score:** Evaluate the impact of implemented ideas on business growth, cost savings, efficiency improvements, or customer satisfaction.
+
+#### Formula:
+Innovation Impact Index = (Idea Generation * Implementation Rate) * Impact Score
+
+#### Measurement and Tracking:
+- **Frequency:** Evaluate on a quarterly or annual basis.
+- **Data Collection:** Track the number of ideas generated, implemented ideas, and their respective impacts.
+- **Qualitative Feedback:** Gather feedback from stakeholders about the quality and impact of implemented ideas.
+
+#### Interpretation:
+- A higher Innovation Impact Index indicates a greater contribution to innovation within the organization.
+- Trends and changes in the index over time help gauge the innovation progress.
+
+This KPI provides a structured way to quantify and measure the contribution of individuals or teams to the innovation ecosystem within the company, allowing for assessment, recognition, and continuous improvement in fostering innovation.

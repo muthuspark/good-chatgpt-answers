@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "good-answers",
+    "section": "",
+    "text": "KPI: Innovation Impact Index\n\n\n\n\n\n\n\ncorporate\n\n\n\n\n\n\n\n\n\n\n\nNov 22, 2023\n\n\nChatGPT\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nNov 22, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nNov 19, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/innovation-impact-index.html",
+    "href": "posts/innovation-impact-index.html",
+    "title": "KPI: Innovation Impact Index",
+    "section": "",
+    "text": "Objective:\nMeasure the tangible contributions made by individuals or teams towards fostering innovation within the organization.\n\n\nComponents:\n\nIdea Generation: Quantify the number of unique ideas proposed by the individual or team within a defined period.\nImplementation Rate: Measure the percentage of proposed ideas successfully implemented or in the process of implementation.\nImpact Score: Evaluate the impact of implemented ideas on business growth, cost savings, efficiency improvements, or customer satisfaction.\n\n\n\nFormula:\nInnovation Impact Index = (Idea Generation * Implementation Rate) * Impact Score\n\n\nMeasurement and Tracking:\n\nFrequency: Evaluate on a quarterly or annual basis.\nData Collection: Track the number of ideas generated, implemented ideas, and their respective impacts.\nQualitative Feedback: Gather feedback from stakeholders about the quality and impact of implemented ideas.\n\n\n\nInterpretation:\n\nA higher Innovation Impact Index indicates a greater contribution to innovation within the organization.\nTrends and changes in the index over time help gauge the innovation progress.\n\nThis KPI provides a structured way to quantify and measure the contribution of individuals or teams to the innovation ecosystem within the company, allowing for assessment, recognition, and continuous improvement in fostering innovation."
+  }
+]
