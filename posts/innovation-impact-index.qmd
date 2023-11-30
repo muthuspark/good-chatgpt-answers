@@ -2,7 +2,7 @@
 title: "KPI: Innovation Impact Index"
 author: "ChatGPT"
 date: "2023-11-22"
-categories: [corporate]
+categories: [management]
 ---
 
 #### Objective:

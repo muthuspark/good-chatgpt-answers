@@ -1,0 +1,26 @@
+---
+title: "Price/Graham Number"
+author: "ChatGPT"
+date: "2023-11-30"
+categories: [investing]
+---
+
+# Price/Graham Number
+
+The Price/Graham Number, also known as the Benjamin Graham Number, is a valuation metric used to assess the intrinsic value of a stock relative to its current market price. It is derived from the criteria outlined by Benjamin Graham in his seminal investment book, "The Intelligent Investor."
+
+The Price/Graham Number is calculated as follows:
+
+```
+Price/Graham Number = √(22.5 × EPS × BVPS)
+```
+
+Where:
+
+* **EPS** is the company's earnings per share (EPS) for the past three years, averaged.
+
+* **BVPS** is the company's book value per share (BVPS).
+
+According to Graham, a stock with a Price/Graham Number of 1.5 or less is considered undervalued, while a stock with a Price/Graham Number above 2.0 is considered overvalued. A Price/Graham Number of 1.86 indicates that the stock is slightly undervalued based on Graham's criteria.
+
+It is important to note that the Price/Graham Number is just one of many factors to consider when evaluating a stock. Other important factors include the company's growth prospects, financial strength, and competitive landscape.

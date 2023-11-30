@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "good-answers"
+  title: "Good ChatGpt Answers"
   navbar:
     right:
       - about.qmd
@@ -12,7 +12,7 @@ website:
         href: https://twitter.com
 format:
   html:
-    theme: cosmo
+    theme: slate
     css: styles.css
 
 

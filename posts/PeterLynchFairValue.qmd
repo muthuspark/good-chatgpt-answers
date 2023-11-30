@@ -1,0 +1,14 @@
+---
+title: "Peter Lynch Fair Value"
+author: "ChatGPT"
+date: "2023-12-01"
+categories: [investing]
+---
+
+# Peter Lynch Fair Value
+
+The Peter Lynch Fair Value is a valuation method developed by renowned investor Peter Lynch. This method is used to estimate the fair value of a company based on its earnings growth rate. According to Lynch, a fairly priced stock has a price/earnings (P/E) ratio that is equal to its growth rate.
+
+The formula for the Peter Lynch Fair Value is:
+
+- Fair Value = Earnings * (Expected Growth Rate)

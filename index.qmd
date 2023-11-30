@@ -1,12 +1,12 @@
 ---
-title: "good-answers"
+title: "Good ChatGpt Answers"
 listing:
   contents: posts
   sort: "date desc"
-  type: default
+  type: table
   categories: true
   sort-ui: false
-  filter-ui: false
+  filter-ui: true
 page-layout: full
 title-block-banner: true
 ---

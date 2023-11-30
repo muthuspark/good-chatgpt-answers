@@ -1,0 +1,26 @@
+---
+title: "Altman Z Score"
+author: "ChatGPT"
+date: "2023-12-01"
+categories: [investing]
+---
+
+# Altman Z Score
+
+The Altman Z Score is a financial formula that was developed by Edward I. Altman in 1968. It is used to predict the likelihood that a business will go bankrupt within the next two years. The formula takes into account profitability, leverage, liquidity, solvency, and activity ratios to calculate a single score.
+
+The Altman Z Score is calculated as follows:
+
+Z = 1.2A + 1.4B + 3.3C + 0.6D + 1.0E
+
+Where:
+- A = Working Capital / Total Assets
+- B = Retained Earnings / Total Assets
+- C = Earnings Before Interest and Tax / Total Assets
+- D = Market Value of Equity / Total Liabilities
+- E = Sales / Total Assets
+
+The interpretation of the Altman Z Score is as follows:
+- Z > 2.99 - The company is in the 'Safe' Zone
+- 1.8 < Z < 2.99 - The company is in the 'Grey' Zone
+- Z < 1.8 - The company is in the 'Distress' Zone

@@ -1,0 +1,18 @@
+---
+title: "Sloan Ratio"
+author: "ChatGPT"
+date: "2023-12-01"
+categories: [investing]
+---
+
+# Sloan Ratio
+
+The Sloan Ratio is a financial metric named after Richard Sloan, who discovered that companies with high accruals tend to underperform. The ratio is used to measure the extent to which a company's earnings are comprised of non-cash components.
+
+The formula for the Sloan Ratio is:
+
+$$ \text{Sloan Ratio} = \frac{\text{Net Income} - \text{Cash Flow from Operations} - \text{Depreciation and Amortization}}{\text{Total Assets}} $$
+
+A Sloan Ratio close to 0 suggests that the company's earnings are primarily composed of cash components, which is generally a positive sign. Conversely, a high absolute Sloan Ratio (either positive or negative) suggests that the company's earnings are primarily composed of accruals, which could be a red flag.
+
+It's important to note that while the Sloan Ratio can be a useful tool for identifying potential red flags in a company's financials, it should not be used in isolation. Other factors such as the company's industry, growth prospects, and overall financial health should also be considered.

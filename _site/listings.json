@@ -2,9 +2,13 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/AltmanZScore.html",
+      "/posts/PiotroskiFScore.html",
+      "/posts/SloanRatio.html",
+      "/posts/Peter-Lynch-Ratio.html",
+      "/posts/Price-Graham-Number.html",
       "/posts/innovation-impact-index.html",
-      "/posts/post-with-code/index.html",
-      "/posts/welcome/index.html"
+      "/posts/kpis-for-software-engineers.html"
     ]
   }
 ]
